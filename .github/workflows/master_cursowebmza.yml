@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'cursowebmza'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14C79D35EBB7469BB1F9A89727A4A2DD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D12D4ABAA441418D9DBB6612ADAEA95C }}
           package: .
